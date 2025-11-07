@@ -1,0 +1,32 @@
+{
+  "system_delay_ms": 66.66666665114462,
+  "ablation_horizons": {
+    "short": 33.666666651144624,
+    "medium": 66.66666665114462,
+    "long": 99.66666665114462
+  },
+  "statistics": {
+    "total_latency_mean": 66.66666665114462,
+    "total_latency_median": 66.66666665114462,
+    "total_latency_std": 0.0,
+    "total_latency_min": 66.66666665114462,
+    "total_latency_max": 66.66666665114462,
+    "inference_mean": 53.6510571220424,
+    "inference_median": 54.02408400550485,
+    "inference_std": 1.4866295346899818,
+    "inference_min": 50.274291017558426,
+    "inference_max": 56.34408304467797,
+    "render_mean": 6.173598799505271,
+    "render_median": 6.2788749928586185,
+    "render_std": 0.5543520993742085,
+    "render_min": 5.03504101652652,
+    "render_max": 8.950541960075498,
+    "display_mean": 6.84201072959695,
+    "display_median": 6.543020659592003,
+    "display_std": 1.578127443338749,
+    "display_min": 2.6773326680995524,
+    "display_max": 10.197999654337764
+  },
+  "num_measurements": 100,
+  "fps": 30.0
+}

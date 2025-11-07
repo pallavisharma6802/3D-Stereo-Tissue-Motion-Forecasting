@@ -1,0 +1,27 @@
+# Core dependencies
+torch>=2.0.0
+torchvision>=0.15.0
+numpy>=1.24.0
+opencv-python>=4.8.0
+Pillow>=10.0.0
+matplotlib>=3.7.0
+scipy>=1.11.0
+
+# Data processing
+pandas>=2.0.0
+h5py>=3.9.0
+
+# Visualization
+seaborn>=0.12.0
+tensorboard>=2.13.0
+
+# Utilities
+tqdm>=4.65.0
+pyyaml>=6.0
+pypdf>=3.0.0
+
+# Optional: For experiment tracking
+# wandb>=0.15.0
+
+# Optional: For stereo matching baselines
+# timm>=0.9.0
